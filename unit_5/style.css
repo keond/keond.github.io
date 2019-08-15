@@ -8,9 +8,6 @@ nav {
 	border: 1px black solid;
     padding: 20px;
 }
-#intro {
+#wrapper {
 	background-color: #FFE2B8;
-}
-section {
-	background-color: #FFE2B8
 }
