@@ -5,4 +5,9 @@ header {
 }
 nav {
 	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
+}
+#intro {
+	background-color: #FFE2B8;
 }
