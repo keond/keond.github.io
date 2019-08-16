@@ -31,3 +31,7 @@ section {
 	border: 1px black solid;
     padding: 20px;
 }
+
+#intro {
+	background-color: #ccb0ab;
+}
