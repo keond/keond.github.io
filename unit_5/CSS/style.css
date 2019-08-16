@@ -22,8 +22,12 @@ nav {
 
 footer {
 	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
 }
 
 section {
 	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
 }
