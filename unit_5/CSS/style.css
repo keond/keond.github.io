@@ -1,5 +1,57 @@
+body {
+	background: #F8F8F8;
+}
+
 header {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#wrapper {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#intro {
+	background-color: #ccb0ab;
+}
+
+#social-media-content {
+	background-color: #abccbb;
+}
+
+#audience-targeting {
+	background-color: #c5abcc
+}
+
+#training {
+	background-color: #ccabab
+}
+
+#lead-form {
+	background-color: #ccccab
+}
+
+img {
+	width: auto;
 }
