@@ -28,3 +28,11 @@
     clear: both;
     height: 0;
 }
+
+.left-head {
+	float: left;
+}
+
+.right-head {
+	float: right;
+}
