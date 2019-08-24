@@ -15,6 +15,12 @@ header{
 	padding: 20px;
 }
 
+#training{
+	background-color: #FFFF
+	border: 1px black solid;
+	padding: 20px;
+}
+
 #left {
     border: 1px black solid;
     padding: 20px;
