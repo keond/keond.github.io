@@ -18,14 +18,14 @@ header{
     border: 1px black solid;
     padding: 20px;
     float: left;
-    width: 30%;
+    width: 50%;
 }
 
 #right {
     border: 1px black solid;
     padding: 20px;
     float: right;
-    width: 62%;
+    width: 50%;
 }
 
 .clearfix:after {
