@@ -30,7 +30,8 @@ header {
 
 #left {
     float: left;
-    width: 50%
+    width: 46%;
+    padding: 2%
 }
 
 #right {
