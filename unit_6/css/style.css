@@ -4,7 +4,7 @@ nav {
     padding: 10px;
 }
 
-header{
+header {
 	background-color: #FFED74;
     border: 1px black solid;
     padding: 10px;
@@ -26,8 +26,6 @@ header{
 
 #training {
 	background-color: #c9ffb7;
-}
-	
 }
 
 #left {
