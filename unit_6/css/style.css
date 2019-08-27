@@ -1,7 +1,13 @@
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+    padding: 10px;
+}
+
 header{
 	background-color: #FFED74;
     border: 1px black solid;
-    padding: 20px;
+    padding: 10px;
 }
 #social-media-content {
     background-color: #FFB7CF;
