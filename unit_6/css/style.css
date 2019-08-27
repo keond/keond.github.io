@@ -9,10 +9,6 @@ header{
     border: 1px black solid;
     padding: 10px;
 }
-#social-media-content {
-    background-color: #FFB7CF;
-  
-}
 
 .service-image {
     width: 100%;
@@ -20,13 +16,17 @@ header{
     display: block;
 }
 
-#audience-targeting {
-	background-color: #beb7ff;
-
+#social-media-content {
+    background-color: #FFB7CF; 
 }
 
-#training{
+#audience-targeting {
+	background-color: #beb7ff;
+}
+
+#training {
 	background-color: #c9ffb7;
+}
 	
 }
 
