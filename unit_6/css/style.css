@@ -71,6 +71,8 @@ header {
     background-color: #ffb7b7;
 }
 
-#footer {
-
+footer {
+    background-color: grey;
+    text-align-last: center;
+    padding: 2%;
 }
