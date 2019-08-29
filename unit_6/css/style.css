@@ -25,6 +25,10 @@ h2 {
     display: block;
 }
 
+#intro {
+    background-color: red;
+}
+
 #social-media-content {
     background-color: #FFB7CF; 
 }
