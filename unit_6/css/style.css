@@ -18,7 +18,7 @@ header {
 
 #intro {
     background-color: #fbffb7;
-    padding: 2%;
+    padding: 4em;
 }
 
 #social-media-content {
@@ -35,8 +35,8 @@ header {
 
 #left {
     float: left;
-    width: 46%;
-    padding: 2%
+    width: 40.8%;
+    padding: 4em
 }
 
 #right {
