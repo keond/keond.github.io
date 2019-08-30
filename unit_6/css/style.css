@@ -4,9 +4,10 @@
 }
 
 nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
+	background-color: #FFED74;
     padding: 10px;
+    text-align: center;
+    margin: 10px;
 }
 
 header {
