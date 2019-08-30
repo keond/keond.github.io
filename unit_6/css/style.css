@@ -16,6 +16,12 @@ header {
     padding: 0% 4%;
 }
 
+@import url('https://fonts.googleapis.com/css?family=Hammersmith+One&display=swap')
+
+h1{
+    font-family: ; 'Hammersmith One', sans-serif;
+}
+
 .service-image {
     width: 100%;
     height: 100%;
