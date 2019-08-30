@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Hammersmith+One&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans&display=swap');
 
 * {
     padding: 0;
@@ -20,27 +21,27 @@ header {
 }
 
 h1{
-    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Bitter', serif;
     font-size: 50px;
 }
 
 h2{
-    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Bitter', serif;
     font-size: 35px;
 }
 
 h3{
-    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Bitter', serif;
     font-size: 30px;
 }
 
 h4{
-    font-family: 'Hammersmith One', sans-serif;
+    font-family: 'Bitter', serif;
     font-size: 25px;
 }
 
 p{
-    font-family: 'Open-Sans', sans-serif;
+    font-family: 'Open-Sans', Helvetica, sans-serif;
     font-size: 18px;
 }
 
