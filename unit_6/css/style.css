@@ -23,25 +23,37 @@ header {
 h1{
     font-family: 'Bitter', serif;
     font-size: 50px;
+    color: #343536
 }
 
 h2{
     font-family: 'Bitter', serif;
     font-size: 35px;
+    color: #343536;
 }
 
 h3{
     font-family: 'Bitter', serif;
     font-size: 30px;
+    color: #343536;
 }
 
 h4{
     font-family: 'Bitter', serif;
     font-size: 25px;
+    color: #343536;
 }
 
 p{
     font-family: 'Open-Sans', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #343536;
+}
+
+a {
+    color: #e53c17;
+    font-weight: bold;
+    font-family: monospace;
     font-size: 18px;
 }
 
