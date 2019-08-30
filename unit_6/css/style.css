@@ -19,19 +19,23 @@ header {
 @import url('https://fonts.googleapis.com/css?family=Hammersmith+One&display=swap')
 
 h1{
-    font-family: ; 'Hammersmith One', sans-serif;
+    font-family: 'Hammersmith One', sans-serif;
 }
 
 h2{
-    font-family: ; 'Hammersmith One', sans-serif;
+    font-family: 'Hammersmith One', sans-serif;
 }
 
 h3{
-    font-family: ; 'Hammersmith One', sans-serif;
+    font-family: 'Hammersmith One', sans-serif;
 }
 
 h4{
-    font-family: ; 'Hammersmith One', sans-serif;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+p{
+    font-family: 'Open-Sans';
 }
 
 .service-image {
