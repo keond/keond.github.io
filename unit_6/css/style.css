@@ -72,8 +72,44 @@ a {
     background-color: #FFB7CF; 
 }
 
+#content{
+    float: left;
+    width: 42%;
+    padding: 4%;
+}
+
+#content-image{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
 #audience-targeting {
 	background-color: #beb7ff;
+}
+
+#targeting{
+    float: left;
+    width: 42%;
+    padding: 4%;
+}
+
+#targeting-image{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+#training-service{
+    float: left;
+    width: 42%;
+    padding: 4%;
+}
+
+#training-image{
+    float: left;
+    width: 50%;
+    height: 100%;
 }
 
 #training {
@@ -109,12 +145,12 @@ a {
 }
 
 #do {
-    padding:0% 4%;
+    padding:4%;
 }
 
 #lead-form {
     text-align: center;
-    padding: 12px 20px;
+    padding: 4%;
     background-color: #ffb7b7;
     width: 100%;
     display: inline-block;
