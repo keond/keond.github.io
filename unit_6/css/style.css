@@ -126,6 +126,7 @@ form {
     margin: auto;
     width: 50%;
     padding: 10px;
+    text-align: left;
 }
 
 textarea {
@@ -139,7 +140,7 @@ textarea {
 }
 
 input {
-    width: 50%;
+    width: 100%;
     padding: 5px;
 }
 
