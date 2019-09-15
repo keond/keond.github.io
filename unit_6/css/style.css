@@ -53,6 +53,7 @@ h4{
     font-family: 'Bitter', serif;
     font-size: 25px;
     color: #343536;
+    padding: 1em;
 }
 
 p{
@@ -208,9 +209,19 @@ input[type="submit"] {
     background-color: black;
     border: black;
     width: 105%;
+}
 
 footer {
     background-color: grey;
     text-align-last: center;
     padding: 2%;
+}
+
+.socials{
+    padding: 2em;
+
+}
+
+footer a {
+    margin: 20px;
 }
