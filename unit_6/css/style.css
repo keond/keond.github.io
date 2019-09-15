@@ -9,9 +9,7 @@
 
 nav {
 	background-color: #FFED74;
-    padding: 10px;
-    text-align: center;
-    margin: 10px;
+    text-align: right;
 }
 
 nav a {
@@ -29,7 +27,7 @@ nav a {
 
 header {
 	background-color: #FFED74;
-    border: 1px black solid;
+    border: 0.1em black solid;
     padding: 0% 4%;
 }
 
@@ -151,10 +149,16 @@ a {
 
 .left-head {
 	float: left;
+    width: 33%;
+    padding: 1em 1em 1em 0em;
+    margin: 1em 1em 1em 0em;
 }
 
 .right-head {
-	float: right;
+	float: left;
+    width: 60%;
+    padding: 1em 0em 1em 1em;
+    margin: 1em 0em 1em 1em;
 }
 
 #do {
