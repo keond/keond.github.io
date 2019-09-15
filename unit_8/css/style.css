@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css?family=Hammersmith+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter|Open+Sans&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+	background-color: #FFED74;
+    text-align: right;
+}
+
+nav a {
+    color: red;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 24px;
+    margin: 0.5em;
+    border-color: red;
+    border-style: solid;
+    border-width: 2px;
+    padding: 5px;
+    display: inline-block;
+}
+
+header {
+	background-color: #FFED74;
+    border: 0.1em black solid;
+    padding: 0% 4%;
+}
+
+h1{
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    color: #343536
+}
+
+h2{
+    font-family: 'Bitter', serif;
+    font-size: 35px;
+    color: #343536;
+}
+
+h3{
+    font-family: 'Bitter', serif;
+    font-size: 30px;
+    color: #343536;
+}
+
+h4{
+    font-family: 'Bitter', serif;
+    font-size: 25px;
+    color: #343536;
+    padding: 1em;
+}
+
+p{
+    font-family: 'Open-Sans', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #343536;
+}
+
+a {
+    color: #e53c17;
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 18px;
+}
+
+.service-image {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+#intro {
+    background-color: #fbffb7;
+    padding: 10% 4%;
+}
+
+#social-media-content {
+    background-color: #FFB7CF; 
+}
+
+#content{
+    float: left;
+    width: 42%;
+    padding: 4%;
+}
+
+#content-image{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+#audience-targeting {
+	background-color: #beb7ff;
+}
+
+#targeting{
+    float: left;
+    width: 42%;
+    padding: 4%;
+}
+
+#targeting-image{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+#training-service{
+    float: left;
+    width: 42%;
+    padding: 4%;
+}
+
+#training-image{
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+#training {
+	background-color: #c9ffb7;
+}
+
+#left {
+    float: left;
+    width: 42%;
+    padding: 4%;
+}
+
+#right {
+    float: right;   
+    width: 50%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.left-head {
+	float: left;
+    width: 33%;
+    padding: 1em 1em 1em 0em;
+    margin: 1em 1em 1em 0em;
+}
+
+.right-head {
+	float: left;
+    width: 60%;
+    padding: 1em 0em 1em 1em;
+    margin: 1em 0em 1em 1em;
+}
+
+#do {
+    padding:4%;
+}
+
+#lead-form {
+    text-align: center;
+    padding: 4%;
+    background-color: #ffb7b7;
+    width: 100%;
+    display: inline-block;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+form {
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    text-align: left;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 6px;
+    font-family: 'Open-Sans';
+    font-size: 16px;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 3px 0px 15px 0px;
+}
+
+label {
+    font-family: 'Open-Sans', Helvetica, sans-serif;
+    font-size: 16px;
+    color: #343536;
+    width: 100%;
+}
+
+input[type="submit"] {
+    color: white;
+    background-color: black;
+    border: black;
+    width: 105%;
+}
+
+footer {
+    background-color: grey;
+    text-align-last: center;
+    padding: 2%;
+}
+
+.socials{
+    padding: 2em;
+
+}
+
+footer a {
+    margin: 20px;
+}
