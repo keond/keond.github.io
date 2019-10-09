@@ -47,6 +47,7 @@ h3{
     font-family: 'Bitter', serif;
     font-size: 1.75em;
     color: #343536;
+    padding: 0em 0em 1em 0em;
 }
 
 h4{
@@ -67,6 +68,7 @@ a {
     font-weight: bold;
     font-family: monospace;
     font-size: 1.125em;
+    padding: 1em 1em 1em 0em;
 }
 
 .service-image {
