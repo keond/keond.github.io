@@ -95,8 +95,7 @@ a {
 
 #content-image{
     float: left;
-    width: 50%;
-    height: 100%;
+    width: 50%;;
 }
 
 #audience-targeting {
@@ -112,7 +111,6 @@ a {
 #targeting-image{
     float: left;
     width: 50%;
-    height: 100%;
 }
 
 #training-service{
@@ -124,7 +122,6 @@ a {
 #training-image{
     float: left;
     width: 50%;
-    height: 100%;
 }
 
 #training {
@@ -228,7 +225,7 @@ footer {
 footer a {
     margin: 2%;
 }
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
     h1 {
         font-size: 2em;
     }
@@ -246,7 +243,7 @@ footer a {
     }
 }
 
-@media screen and (max-width: 1300px){
+@media screen and (max-width: 900px){
     h1 {
         font-size: 2em;
     }
@@ -261,5 +258,38 @@ footer a {
     }
     p {
         font-size: 1em;
+    }
+    #intro {
+    padding: 10%;
+    }
+    #do {
+    padding: 4% 10%;
+    }
+    #content-image {
+    float: left;
+    width: 100%;
+    }
+    #content {
+    float: left;
+    width: 70%;
+    padding: 4% 10%;
+    }
+    #targeting-image {
+    float: left;
+    width: 100%;
+    }
+    #targeting {
+    float: left;
+    width: 70%;
+    padding: 4% 10%;
+    }
+    #training-image {
+    float: left;
+    width: 100%;
+    }
+    #training-service {
+    float: left;
+    width: 70%;
+    padding: 4% 10%;
     }
 }
