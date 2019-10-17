@@ -152,14 +152,12 @@ a {
 .left-head {
 	float: left;
     width: 33%;
-    padding: 1em 1em 1em 0em;
     margin: 1em 1em 1em 0em;
 }
 
 .right-head {
 	float: left;
     width: 60%;
-    padding: 1em 0em 1em 1em;
     margin: 1em 0em 1em 1em;
 }
 
