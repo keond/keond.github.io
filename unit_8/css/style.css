@@ -251,6 +251,7 @@ footer a {
     float: left;
     padding: 0em;
     margin: 1em;
+    width: auto;
     }
     nav a{
     font-size: 0.75em;
