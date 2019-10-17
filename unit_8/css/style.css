@@ -91,7 +91,7 @@ a {
 #content{
     float: left;
     width: 42%;
-    padding: 4%;
+    padding: 4% 4% 0% 4%;
 }
 
 #content-image{
@@ -106,7 +106,7 @@ a {
 #targeting{
     float: left;
     width: 42%;
-    padding: 4%;
+    padding: 4% 4% 0% 4%;
 }
 
 #targeting-image{
@@ -117,7 +117,7 @@ a {
 #training-service{
     float: left;
     width: 42%;
-    padding: 4%;
+    padding: 4% 4% 0% 4%;
 }
 
 #training-image{
@@ -252,6 +252,7 @@ footer a {
     }
     h3 {
         font-size: 1.2em;
+        padding: 1em 0em 1em 0em;
     }
     h4 {
         font-size: 1em;
