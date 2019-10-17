@@ -256,6 +256,39 @@ footer a {
     nav a{
     font-size: 0.75em;
     }
+     #intro {
+    padding: 10%;
+    }
+    #do {
+    padding: 4% 10%;
+    }
+    #content-image {
+    float: left;
+    width: 100%;
+    }
+    #content {
+    float: left;
+    width: 70%;
+    padding: 4% 10%;
+    }
+    #targeting-image {
+    float: left;
+    width: 100%;
+    }
+    #targeting {
+    float: left;
+    width: 70%;
+    padding: 4% 10%;
+    }
+    #training-image {
+    float: left;
+    width: 100%;
+    }
+    #training-service {
+    float: left;
+    width: 70%;
+    padding: 4% 10%;
+    }
 }
 
 @media screen and (min-width: 601px) and (max-width: 900px){
