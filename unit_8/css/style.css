@@ -168,7 +168,6 @@ a {
 }
 
 #lead-form {
-    text-align: center;
     padding: 4%;
     background-color: #ffb7b7;
     width: 100%;
@@ -178,8 +177,7 @@ a {
 }
 
 form {
-    margin: auto;
-    width: 30%;
+    width: 50%;
     padding: 10px;
     text-align: left;
 }
@@ -209,7 +207,8 @@ input[type="submit"] {
     color: white;
     background-color: black;
     border: black;
-    width: 105%;
+    width: 104%;
+    padding: 10px;
 }
 
 footer {
@@ -259,6 +258,19 @@ footer a {
     }
     p {
         font-size: 1em;
+    }
+
+    .left-head {
+    float: left;
+    width: 6%;
+    padding: 0em;
+    margin: 1em;
+    }
+    .right-head {
+    float: left;
+    width: 82%;
+    padding: 0em;
+    margin: 1em;
     }
     #intro {
     padding: 10%;
