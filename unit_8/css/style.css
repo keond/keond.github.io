@@ -27,7 +27,6 @@ nav a {
 
 header {
 	background-color: #FFED74;
-    border: 0.1em black solid;
     padding: 0% 4%;
 }
 
@@ -238,6 +237,24 @@ footer a {
     }
     p {
         font-size: 1em;
+    }
+    header {
+    padding: 0% 0%;
+    }
+    .left-head {
+    float: left;
+    width: 6%;
+    padding: 0em;
+    margin: 1em;
+    }
+    .right-head {
+    float: left;
+    width: 75%;
+    padding: 0em;
+    margin: 1em;
+    }
+    nav a{
+    font-size: 0.75em;
     }
 }
 
